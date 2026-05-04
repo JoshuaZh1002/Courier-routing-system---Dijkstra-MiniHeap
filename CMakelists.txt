@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(MyProject C)
+
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_C_STANDARD_REQUIRED True)
+
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
+
+file(GLOB_RECURSE SOURCES "src/*.c")
+add_executable(my_app ${SOURCES})
+
+target_include_directories(my_app PRIVATE ${CMAKE_SOURCE_DIR}/include)
