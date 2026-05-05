@@ -273,7 +273,7 @@ static void menu_delivery(Graph *g, DeliveryQueue *delivery_queue)
             int loc_id = read_int("Add meg a szállítási helyszín azonosítóját: ");
             int priority = read_int("Add meg a szállítási prioritást (alacsonyabb érték magasabb prioritás): ");
             char label[MAX_NAME_LEN];
-            read_str("Add meg a szállítási cím megnevezését: ", label, sizeof(label));
+            read_str("Add meg a szállítási vevő megnevezését: ", label, sizeof(label));
             delivery_queue_add(delivery_queue, loc_id, priority, label);
             printf(" [Szállítási cím hozzáadva]\n");
             break;
