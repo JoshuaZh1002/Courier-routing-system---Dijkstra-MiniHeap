@@ -5,12 +5,12 @@
 #include <stdio.h>
 
 // --- Adatszerkezetek --- //
-typedef struct
+typedef struct AdjNode
 {
     int dest_vertex;
     int distance_weight;
-    struct Node *next;
-} AdjNode; // Gráf csúcsai és élei
+    struct AdjNode *next;
+} AdjNode;
 
 typedef struct
 {
