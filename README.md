@@ -78,7 +78,7 @@ The task: build a real-world application in C that demonstrates non-trivial algo
 │   ├── heap.c                  # MinHeap: create, push, pop, sift-up, sift-down
 │   ├── dijkstra.c              # Dijkstra's shortest path & path reconstruction
 │   └── delivery.c              # Delivery queue CRUD, sorting, route generation
-├── bin/                        # Compiled binary output (Homework_app)
+├── bin/                        # Compiled binary output (CourierRoutingSystem)
 └── README.md
 ```
 
