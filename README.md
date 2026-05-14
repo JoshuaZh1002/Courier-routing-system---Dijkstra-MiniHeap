@@ -99,12 +99,12 @@ cmake -B build
 cmake --build build
 ```
 
-The executable is written to `bin/Homework_app`.
+The executable is written to `bin/CourierRoutingSystem`.
 
 ### Run
 
 ```bash
-./bin/Homework_app
+./bin/CourierRoutingSystem
 ```
 
 You will be greeted by the main menu:
