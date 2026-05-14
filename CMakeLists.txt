@@ -12,4 +12,4 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 include_directories(${CMAKE_SOURCE_DIR}/include)
 
 set(SOURCES src/main.c src/delivery.c src/dijkstra.c src/graph.c src/heap.c)
-add_executable(Homework_app ${SOURCES})
+add_executable(CourierRoutingSystem ${SOURCES})

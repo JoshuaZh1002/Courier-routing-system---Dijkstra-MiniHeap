@@ -1,0 +1,3 @@
+/home/joshua/work/BME/algoritmus_es_adatszerkezet_hatekony_implementalasa_C-ben/Kötelező házi/build/CMakeFiles/CourierRoutingSystem.dir
+/home/joshua/work/BME/algoritmus_es_adatszerkezet_hatekony_implementalasa_C-ben/Kötelező házi/build/CMakeFiles/edit_cache.dir
+/home/joshua/work/BME/algoritmus_es_adatszerkezet_hatekony_implementalasa_C-ben/Kötelező házi/build/CMakeFiles/rebuild_cache.dir

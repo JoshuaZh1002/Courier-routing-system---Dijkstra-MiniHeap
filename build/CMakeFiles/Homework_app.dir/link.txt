@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Homework_app.dir/src/main.c.o CMakeFiles/Homework_app.dir/src/delivery.c.o CMakeFiles/Homework_app.dir/src/dijkstra.c.o CMakeFiles/Homework_app.dir/src/graph.c.o CMakeFiles/Homework_app.dir/src/heap.c.o -o "/home/joshua/work/BME/algoritmus_es_adatszerkezet_hatekony_implementalasa_C-ben/Kötelező házi/bin/Homework_app" 
